@@ -1,0 +1,19 @@
+{
+  "name": "tranzila",
+  "version": "1.0.0",
+  "description": "Tranzila API",
+  "main": "index.js",
+  "keywords": [
+    "tranzila",
+    "tranzila.com",
+    "payments",
+    "api"
+  ],
+  "homepage": "https://github.com/siginur/tranzila",
+  "author": "Alexey Siginur <siginur@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siginur/tranzila.git"
+  },
+  "license": "MIT"
+}
